@@ -8,7 +8,6 @@ public class SingletonPattern{
         Logger logger2 = Logger.getInstance();
         logger2.log("Second Message");
 
-        // Verify both references point to same object
         if (logger1 == logger2) {
             System.out.println("Only one Logger instance exists.");
         } else {
@@ -19,15 +18,12 @@ public class SingletonPattern{
 
 class Logger {
 
-    // Private static instance
     private static Logger instance;
 
-    // Private constructor
     private Logger() {
         System.out.println("Logger Instance Created");
     }
 
-    // Public method to get instance
     public static synchronized Logger getInstance() {
         if (instance == null) {
             instance = new Logger();
@@ -35,7 +31,6 @@ class Logger {
         return instance;
     }
 
-    // Logging method
     public void log(String message) {
         System.out.println("Log: " + message);
     }
