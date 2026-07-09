@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="AssertionsTest" time="0.059" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="CalculatorTest" time="0.1" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AssertionUnit\target\test-classes;C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AssertionUnit\target\classes;C:\Users\chaur\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\chaur\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AAAPattern\target\test-classes;C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AAAPattern\target\classes;C:\Users\chaur\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\chaur\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-25.0.3.9-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\chaur\AppData\Local\Temp\surefire9044456302056240442\surefirebooter-20260707095057046_3.jar C:\Users\chaur\AppData\Local\Temp\surefire9044456302056240442 2026-07-07T09-50-56_908-jvmRun1 surefire-20260707095057046_1tmp surefire_0-20260707095057046_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\chaur\AppData\Local\Temp\surefire11968914238976387796\surefirebooter-20260709110020906_3.jar C:\Users\chaur\AppData\Local\Temp\surefire11968914238976387796 2026-07-09T11-00-20_754-jvmRun1 surefire-20260709110020906_1tmp surefire_0-20260709110020906_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AssertionUnit\target\test-classes;C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AssertionUnit\target\classes;C:\Users\chaur\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\chaur\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AAAPattern\target\test-classes;C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AAAPattern\target\classes;C:\Users\chaur\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\chaur\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\chaur"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2026-04-21"/>
     <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-25.0.3.9-hotspot"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AssertionUnit"/>
+    <property name="basedir" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AAAPattern"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\chaur\AppData\Local\Temp\surefire9044456302056240442\surefirebooter-20260707095057046_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\chaur\AppData\Local\Temp\surefire11968914238976387796\surefirebooter-20260709110020906_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.3+9-LTS"/>
@@ -46,7 +46,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\chaur\AppData\Local\Temp\"/>
     <property name="java.version" value="25.0.3"/>
-    <property name="user.dir" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AssertionUnit"/>
+    <property name="user.dir" value="C:\Users\chaur\OneDrive\Desktop\Cognizant\Week2\AAAPattern"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -60,5 +60,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testAssertions" classname="AssertionsTest" time="0.004"/>
+  <testcase name="testAdd" classname="CalculatorTest" time="0.012">
+    <system-out><![CDATA[Setting up test data...
+Cleaning up after test...
+]]></system-out>
+  </testcase>
+  <testcase name="testSubtract" classname="CalculatorTest" time="0.001">
+    <system-out><![CDATA[Setting up test data...
+Cleaning up after test...
+]]></system-out>
+  </testcase>
 </testsuite>
