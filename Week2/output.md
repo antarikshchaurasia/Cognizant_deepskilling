@@ -6,3 +6,6 @@
    
 3. Output of AAA Pattern
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/e028360c-42c2-40b3-aa45-e969bc62bcbe" />
+
+4. Output of MockingandStubbing
+<img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/c447065f-23bf-48ba-ae54-ea2fca6901e0" />
