@@ -18,8 +18,6 @@
 5. CountryCode
 <img width="1920" height="1080" alt="Screenshot 2026-07-21 221058" src="https://github.com/user-attachments/assets/d88856ee-6994-48af-bc07-d4355df97bde" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-21 221605" src="https://github.com/user-attachments/assets/36b2f071-3512-49a9-a096-f0498ca200bf" />
-
 <img width="1920" height="1080" alt="Screenshot 2026-07-21 221612" src="https://github.com/user-attachments/assets/a0436c76-8dbb-485e-b4e3-9c532613b671" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-21 221621" src="https://github.com/user-attachments/assets/ce510af2-111a-4fb7-b0e0-7c51e0bec815" />
