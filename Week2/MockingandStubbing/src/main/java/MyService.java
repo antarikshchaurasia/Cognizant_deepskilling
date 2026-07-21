@@ -1,6 +1,6 @@
 public class MyService {
 
-    private ExternalApi api;
+    private final ExternalApi api;
 
     public MyService(ExternalApi api) {
         this.api = api;
