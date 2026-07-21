@@ -9,3 +9,6 @@
 
 4. Output of MockingandStubbing
 <img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/c447065f-23bf-48ba-ae54-ea2fca6901e0" />
+
+5. Output of VerifyingInteractions
+<img width="1602" height="1080" alt="image" src="https://github.com/user-attachments/assets/c783a47d-ef1c-418e-b148-5f489b58d9b3" />
