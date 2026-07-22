@@ -6,4 +6,4 @@
 2. Loan
 <img width="1920" height="1080" alt="Screenshot 2026-07-22 145718" src="https://github.com/user-attachments/assets/363deb83-9fdf-479c-9313-1a2695469f2b" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-22 145718" src="https://github.com/user-attachments/assets/15291866-2f45-4207-9c78-021e5f64c5a9" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 145302" src="https://github.com/user-attachments/assets/59750d38-3a0d-49ab-bf11-80ee707887e4" />
