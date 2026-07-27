@@ -1,0 +1,43 @@
+.card{
+
+width:300px;
+
+border:1px solid gray;
+
+border-radius:10px;
+
+padding:20px;
+
+margin:15px;
+
+display:inline-block;
+
+vertical-align:top;
+
+text-align:center;
+
+box-shadow:0px 2px 5px rgba(0,0,0,0.1);
+
+background:white;
+
+}
+
+.card h2{
+
+margin-bottom:20px;
+
+}
+
+.card p{
+
+margin:10px 0;
+
+font-size:20px;
+
+}
+
+.card strong{
+
+font-weight:bold;
+
+}
